@@ -1,0 +1,50 @@
+MEMBER
+Piotr H
+piotr
+12345
+
+MEMBER
+David S
+david
+12345
+
+MEMBER
+Alice B
+alice
+12345
+
+BOOK
+1
+Alice's Adventures in Wonderland
+Lewis Carroll
+Fantasy
+0
+
+BOOK
+2
+Crime and Punishment
+Fyodor Dostoyevsky
+Crime fiction
+1
+
+BOOK
+3
+The Odyssey
+Homer
+Epic poetry
+1
+
+RENT
+1
+2022-Feb-10
+2022-Apr-11
+piotr
+2
+
+RENT
+2
+2022-Feb-10
+2022-Apr-11
+david
+3
+
